@@ -1,8 +1,8 @@
 # **git**
 
-#**Profile**
+##Profile
 
-# First student
+First student
 
 
 >-Lyba Fatima 
@@ -11,7 +11,7 @@
 >-2018-cs-03
 
 
-#Second student
+Second student
 
 >-zaeema Anwar
 
