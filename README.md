@@ -1,6 +1,5 @@
-# **git**
-
-##Profile
+# **git**       
+**profile**
 
 First student
 
